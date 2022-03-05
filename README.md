@@ -1,4 +1,4 @@
-# Free Resources for developers, please contribute!
+# Free Programming Resources for Computer Science and Tech students, please contribute!
 
 ## Table of contents
 

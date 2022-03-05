@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+# Free Programming Resources for Computer Science and Tech students, please contribute!
 
-You can use the [editor on GitHub](https://github.com/Beyond-The-Basics/resources/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Table of contents
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- ### [Learn to code](#code)
 
-### Markdown
+- ### [Data Structures and Algorithms](#DSA)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- ### [Interview questions](#interview)
 
-```markdown
-Syntax highlighted code block
+## Learn to code <a name='code'></a>
+Books
+ - https://github.com/EbookFoundation/free-programming-books
+ - https://www.onlineprogrammingbooks.com/legally-free-oreilly-media-books/
 
-# Header 1
-## Header 2
-### Header 3
+Youtube playlists
+ - https://www.youtube.com/c/Freecodecamp/featured
+ - https://www.youtube.com/c/TraversyMedia
+ - https://www.youtube.com/c/TechWithTim
+ - https://www.youtube.com/c/WebDevSimplified
 
-- Bulleted
-- List
+Online courses and websites
+ - https://www.codecademy.com
+ - https://www.freecodecamp.org/
+ - https://www.codewars.com/
+ - https://www.w3schools.com/
+ - https://developer.mozilla.org/en-US/
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Data Structures and Algorithms Free Resources <a name='DSA'></a>
+Books
+ - https://algs4.cs.princeton.edu/home/
+ - https://algorithmsbook.com/files/dm.pdf
+ - https://greenteapress.com/wp/think-data-structures/
+ - https://www.algorist.com/Algorist_ed2/
 
-[Link](url) and ![Image](src)
-```
+Youtube Playlists
+ - [CS dojo/datastructures and algorithms](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H)
+ - [HackerRank Algorithms](https://www.youtube.com/watch?v=KEEKn7Me-ms&list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
+ - [HackerRank Data Structures](https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Online courses and websites
+ - https://practice.geeksforgeeks.org/home
+ - https://leetcode.com/
+ - https://www.programiz.com/dsa
+ - https://www.coursera.org/learn/algorithms-part1
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Beyond-The-Basics/resources/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Interview questions prep <a name='interview'></a>
+Coming soon ! 
